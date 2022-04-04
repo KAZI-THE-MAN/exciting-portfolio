@@ -30,7 +30,7 @@ body{
     background-repeat: no-repeat;
 }
 section{
-    height: 800px;
+    height: 1000px;
     padding-bottom: 300px;
 
 }
@@ -43,4 +43,12 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: bold;
+}
+
+.banner2{
+    background-image: url("images/dream-bg.png");
+    
+    background-repeat: no-repeat;
+
+    
 }
